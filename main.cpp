@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "linkedlist.h"
+#include "LinkedList.h"
 
 using namespace std;
 
